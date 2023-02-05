@@ -19,3 +19,6 @@ The game will keep going until stopped with the red stop sign.
 When the whistle sounds, the game will wait for the user's input. The user will only have control of the shooter, the goalie is computer controlled.
 
 Use the arrow keys to decide where to shoot the ball. Pressing the left key will shoot the ball left while the right key will point the ball towards the rightside of the net. To shoot the ball straight, press any other key on the keyboard. 
+
+# Changelog
+- Added crowd noise when scoring goals
